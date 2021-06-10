@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'DexcomShareClient'
+  s.name             = 'ShareClient'
   s.version          = '1.2'
-  s.summary          = 'DexcomShareClient pod.'
+  s.summary          = 'ShareClient pod.'
 
   s.description      = <<-DESC
 CocoaPods version of LoopKit/dexcom-share-client-swift.
