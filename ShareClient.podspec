@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ShareClient'
-  s.version          = '1.2'
+  s.version          = '1.2.1'
   s.summary          = 'ShareClient pod.'
 
   s.description      = <<-DESC
@@ -28,6 +28,6 @@ CocoaPods version of LoopKit/dexcom-share-client-swift.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'LoopKit', '~> 3.0.1'
+  s.dependency 'LoopKit', '~> 3.0.2'
 end
 
